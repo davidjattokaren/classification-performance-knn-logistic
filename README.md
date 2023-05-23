@@ -24,21 +24,21 @@ Classification Performance Measurement / Evaluation for kNN &amp; Logistic Regre
 
 ## Part 1
 Complete the outlined steps above using the SystemAdministrators.csv dataset.
+
 Target Variable: task_completed
+
 We have the task of helping the HR department with resource allocation across the business.  The hope is that if we can use machine learning to successfully predict task completions (as well when tasks are likely to NOT be completed) then HR can make better decisions about team assignments.
 
 ## Part 2
 Complete the outlined steps above using the FlightDelays_Clean.csv dataset.
+
 Target Variable: status_delayed
+
 For the airline industry - the goal is to optimize the tuning of a classification model that predicts flights that are likely to be delayed.  We must think carefully about decisions that might be made in response to various predictions as well as the potential costs of those decisions.
 
 ## Part 3
 Complete the outlined steps above using the loan_approval.csv dataset.
+
 Target Variable: approved
+
 For a large regional bank - Your task is to create a prediction model that could be used to automate loan approval decisions.  There are some fields in this dataset that we WOULD NOT be allowed to use in practice (at least not in the U.S. or Europe).  We must think about the ethical issues surrounding the possibility of using variables like ethnicity, age, etc. when deciding to approve or reject a loan application.
-
-
-
-
-
-
